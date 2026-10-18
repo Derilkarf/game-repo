@@ -1,2 +1,2 @@
 # game-repo
-everything about game experiment in here
+still empty, i am not focusing in game right no.
